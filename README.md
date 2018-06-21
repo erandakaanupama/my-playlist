@@ -1,2 +1,2 @@
 
-Using Array lists in java
+Simple music playlist with java ArrayLists and LinkedLists
